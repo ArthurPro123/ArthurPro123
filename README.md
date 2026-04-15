@@ -21,7 +21,11 @@ I focus on building robust test automation frameworks and observable, resilient 
 
 ### 🛠️ Core Skills
 
-`Python` `Pytest` `Behave` `Playwright` `Flask` `Docker` `Prometheus` `Grafana` `GitHub Actions`
+`Python` `Pytest` `Behave` `Playwright` `Flask` `Docker` `PHP` `PHPUnit` `Docker` `COBOL`, `IBM ISPF`
 
 ---
 
+## 📫 Connect with Me
+
+- **LinkedIn**: [link](https://www.linkedin.com/in/arthur-propishchin-devops/)
+- **Contact Form**: [link](https://codesnatches.com/qa/#nav_contact)
