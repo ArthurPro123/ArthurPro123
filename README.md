@@ -23,7 +23,7 @@ I focus on building robust test automation frameworks and observable, resilient 
 
 ### 🛠️ Core Skills
 
-`Python` `Pytest` `Behave` `Playwright` `Flask` `Docker` `PHP` `PHPUnit` `Docker` `COBOL`, `IBM ISPF`
+`REST-Assured` `Python` `Pytest` `Behave` `Playwright` `Flask` `Docker` `PHP` `COBOL` `IBM ISPF`
 
 ---
 
