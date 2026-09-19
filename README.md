@@ -13,6 +13,8 @@ I focus on building robust test automation frameworks and observable, resilient 
 
 - **Product Administration Service**: A Flask microservice with JWT auth, role-based permissions, and a complete test suite (pytest, BDD, Playwright). [Repo](https://github.com/ArthurPro123/product-administraion-service)
 
+- **API Test Framework with REST-Assured** — Modular framework for automating tests across multiple microservices [Repo](https://github.com/ArthurPro123/api-test-framework-with-rest-assured)
+
 - **BDD Test Framework**: Cross-browser, multi-site comment form validation using Behave and Playwright. [Repo](https://github.com/ArthurPro123/bdd-tests-for-multi-site-comment-form)
 
 - **Inventory Management API**: Core inventory operations with secure authentication, OpenAPI documentation and comprehensive test suit. [Repo](https://github.com/ArthurPro123/inventory-service)
